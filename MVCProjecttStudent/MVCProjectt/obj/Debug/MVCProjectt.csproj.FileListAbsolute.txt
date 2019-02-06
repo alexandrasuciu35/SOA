@@ -1,0 +1,216 @@
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\obj\Debug\MVCProjectt.csprojResolveAssemblyReference.cache
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\ApplicationInsights.config
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\csc.exe
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\vbc.exe
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\MVCProjectt.dll.config
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\MVCProjectt.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\MVCProjectt.pdb
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.Web.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Newtonsoft.Json.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Net.Http.Formatting.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Helpers.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Http.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Http.WebHost.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Mvc.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Razor.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.Razor.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.Web.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\Newtonsoft.Json.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Net.Http.Formatting.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Http.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Http.WebHost.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Razor.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.Razor.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Helpers.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\bin\System.Web.Mvc.xml
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\obj\Debug\MVCProjectt.dll
+C:\Users\Didi\Desktop\MVCProjectt\MVCProjectt\obj\Debug\MVCProjectt.pdb
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\ApplicationInsights.config
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\csc.exe
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\System.Collections.Immutable.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\vbc.exe
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\VBCSCompiler.exe
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\roslyn\VBCSCompiler.exe.config
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\MVCProjectt.dll.config
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\MVCProjectt.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\MVCProjectt.pdb
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.DependencyCollector.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.Web.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.WindowsServer.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.ApplicationInsights.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.Web.Infrastructure.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Newtonsoft.Json.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Net.Http.Formatting.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Helpers.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Http.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Http.WebHost.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Mvc.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Razor.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.Deployment.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.Razor.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.DependencyCollector.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.Web.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.AI.WindowsServer.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.ApplicationInsights.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\Newtonsoft.Json.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Net.Http.Formatting.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Http.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Http.WebHost.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Razor.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.Deployment.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Webpages.Razor.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Helpers.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\bin\System.Web.Mvc.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\obj\Debug\MVCProjectt.csprojResolveAssemblyReference.cache
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\obj\Debug\MVCProjectt.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjectt\MVCProjectt\obj\Debug\MVCProjectt.pdb
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\ApplicationInsights.config
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\csc.exe
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\System.Collections.Immutable.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\vbc.exe
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\VBCSCompiler.exe
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\roslyn\VBCSCompiler.exe.config
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\MVCProjectt.dll.config
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\MVCProjectt.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\MVCProjectt.pdb
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.DependencyCollector.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.Web.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.WindowsServer.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.ApplicationInsights.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.Web.Infrastructure.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Newtonsoft.Json.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Net.Http.Formatting.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Helpers.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Http.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Http.WebHost.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Mvc.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Razor.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.Deployment.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.Razor.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.DependencyCollector.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.Web.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.WindowsServer.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.ApplicationInsights.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\Newtonsoft.Json.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Net.Http.Formatting.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Http.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Http.WebHost.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Razor.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.Deployment.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.Razor.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Helpers.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\bin\System.Web.Mvc.xml
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\obj\Debug\MVCProjectt.csprojResolveAssemblyReference.cache
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\obj\Debug\MVCProjectt.dll
+D:\Master\Anul II\Semestrul I\SOA\MVCProjecttStudent\MVCProjectt\obj\Debug\MVCProjectt.pdb
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\ApplicationInsights.config
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\csc.exe
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\vbc.exe
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\VBCSCompiler.exe
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\MVCProjectt.dll.config
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\MVCProjectt.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\MVCProjectt.pdb
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.Web.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Newtonsoft.Json.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Net.Http.Formatting.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Helpers.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Http.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Http.WebHost.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Mvc.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Razor.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.Razor.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.Web.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\Newtonsoft.Json.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Net.Http.Formatting.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Http.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Http.WebHost.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Razor.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Webpages.Razor.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Helpers.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\bin\System.Web.Mvc.xml
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\obj\Debug\MVCProjectt.csprojResolveAssemblyReference.cache
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\obj\Debug\MVCProjectt.dll
+C:\Users\LELU\Desktop\studentbun\MVCProjecttStudent\MVCProjectt\obj\Debug\MVCProjectt.pdb

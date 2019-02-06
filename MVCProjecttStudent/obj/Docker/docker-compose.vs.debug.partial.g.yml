@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  mvcprojectt:
+    image: mvcprojectt:dev
+    build:
+      args:
+        source: obj/Docker/empty/
+    volumes:
+      - C:\Users\LELU\Desktop\studentbun\SOA---Suciu-Alexandra\MVCProjecttStudent\MVCProjectt:C:\inetpub\wwwroot
+      - :C:\remote_debugger:ro
+    entrypoint: cmd /c "start /B C:\\ServiceMonitor.exe w3svc & C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646"
+

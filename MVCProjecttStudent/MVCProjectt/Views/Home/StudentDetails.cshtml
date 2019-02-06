@@ -1,0 +1,174 @@
+﻿@model IEnumerable<MVCProjectt.Models.Students>
+
+@{
+    ViewBag.Title = "StudentDetails";
+}
+
+
+<h2>StudentDetails</h2>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+
+<style type="text/css">
+    .webgrid-table {
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        font-size: 1.2em;
+        width: 300px;
+        display: table;
+        border-collapse: separate;
+        border: solid 1px;
+        background-color: purple;
+    }
+
+        .webgrid-table td, th {
+            border: 3px solid;
+            padding: 3px 7px 2px;
+            width: 230px;
+        }
+
+    .webgrid-header {
+        background-color: cornsilk;
+        color: #FFFFFF;
+        padding-bottom: 4px;
+        padding-top: 5px;
+        text-align: left;
+        width: 20%;
+    }
+
+    .webgrid-footer {
+    }
+
+    .webgrid-row-style {
+        padding: 3px 7px 2px;
+    }
+
+    .webgrid-alternating-row {
+        background-color: #EAF2D3;
+        padding: 3px 7px 2px;
+    }
+</style>
+<h2> Index</h2>
+<script type="text/javascript">
+
+
+    $(function () {
+        $('.edit-mode').hide();
+        $('.edit-user, .cancel-user').on('click', function ()
+        {
+            var tr = $(this).parents('tr:first');
+            tr.find('.edit-mode, .display-mode').toggle();
+        });
+        $('.Delete-user').on('click', function () {
+            if (confirm("Are you sure?")) {
+                var tr = $(this).parents('tr:first');
+                var ID = tr.find("#lbl_Studentid").html();
+                var UserModel =
+                {
+                    "StudentId": ID
+                }
+                $.ajax({
+                    url: '/Home/DeleteUser/',
+                    data: JSON.stringify(UserModel),
+                    type: 'POST',
+                    contentType: 'application/json; charset=utf-8',
+                    success: function (data) {
+                        location.reload();
+                    }
+
+                });
+            }
+            else
+            {
+                var tr = $(this).parents('tr:first');
+                tr.find('.edit-mode, .display-mode').toggle();
+
+            }
+        });
+        $('.save-user').on('click', function () {
+            var tr = $(this).parents('tr:first');
+            var ID = tr.find("#lbl_Studentid").html();
+            var Name = tr.find("#txt_StudentName").val();
+            var Group = tr.find("#txt_studentGroup").val();
+            var Address = tr.find("#txt_address").val();
+            var Departament = tr.find("#txt_departament").val();
+
+
+            tr.find("#lbl_studentname").text(Name);
+            tr.find("#lbl_departament").text(Department);
+            tr.find("#lbl_address").text(Address);
+            tr.find("#lbl_studentGroup").text(Group);
+            tr.find('.edit-mode, .display-mode').toggle();
+            var UserModel =
+            {
+                "StudentId": ID,
+                "StudentName": Name,
+                "StudentGroup": StudentGroup,
+                "Departament": Department,
+                "Address": Address
+
+            };
+            $.ajax({
+                url: '/Home/Update/',
+                data: JSON.stringify(UserModel),
+                type: 'POST',
+                contentType: 'application/json; charset=utf-8',
+                success: function (data) {
+                    window.location.href = window.location.href;
+                }
+
+            });
+
+        });
+    })
+</script>
+
+
+
+
+<div>
+    @{
+    var grid = new WebGrid(source: Model, canPage: true, rowsPerPage: 10);
+    grid.Pager(WebGridPagerModes.All);
+}
+
+</div>
+<h3>List Of Users</h3>
+<div>
+    @grid.GetHtml(
+                   headerStyle: "webgrid-header",
+                footerStyle: "webgrid-footer",
+                alternatingRowStyle: "webgrid-alternating-row",
+                selectedRowStyle: "webgrid-selected-row",
+                rowStyle: "webgrid-row-style",
+                mode: WebGridPagerModes.All,
+             columns: grid.Columns(
+
+              grid.Column("StudentId", format: @<text>  <span class="display-mode">@item.StudentId </span> <label id="lbl_Studentid" class="edit-mode">@item.StudentId</label> </text>, style: "col1Width"),
+
+                                grid.Column(columnName: "StudentName", header: "StudentName", format: @<text> <span class="display-mode">@item.StudentName <label id="lblstudentname"></label> </span>  <input type="text" id="txt_studentName" value="@item.StudentName" class="edit-mode" /> </text>, style: "col2Width"),
+
+                                                       grid.Column(columnName: "Departament", header: "Department", format: @<text> <span class="display-mode">@item.Departament <label id="lbl_departament"></label> </span>  <input type="text" id="txt_departament" value="@item.Departament" class="edit-mode" /> </text>, style: "col2Width"),
+
+                                                           grid.Column(columnName: "StudentGroup", header: "StudentGroup", format: @<text> <span class="display-mode">@item.StudentGroup <label id="lbl_studentGroup"></label> </span>  <input type="text" id="txt_studentGroup" value="@item.StudentGroup" class="edit-mode" /> </text>, style: "col2Width"),
+
+
+                  grid.Column(columnName: "Address", header: "Address", format: @<text> <span class="display-mode">@item.Address <label id="lbladdress"></label> </span>  <input type="text" id="txt_address" value="@item.Address" class="edit-mode" /> </text>, style: "col2Width"),
+
+                  grid.Column("Action", format: @<text>
+
+                    <button class="edit-user display-mode" style="background-color: #1E90FF; border-bottom-style: groove">Edit</button>
+                    <button class="save-user edit-mode" style="background-color: #FF5733; border-bottom-style: groove">Save</button>
+                    <button class="cancel-user edit-mode" style="background-color: #FF5733; border-bottom-style: groove">Cancel</button>
+                    <button class="Delete-user display-mode" style="background-color: #1E90FF; border-bottom-style: groove">Delete</button>
+                </text>, style: "col3Width", canSort: true)))
+
+
+
+
+
+
+
+</div>
+
+  
+  

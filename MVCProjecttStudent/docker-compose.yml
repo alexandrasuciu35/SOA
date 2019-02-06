@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mvcprojectt:
+    image: ${DOCKER_REGISTRY-}mvcprojectt
+    build:
+      context: .\MVCProjectt
+      dockerfile: Dockerfile
